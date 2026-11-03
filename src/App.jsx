@@ -1,7 +1,7 @@
 
 import React from "react";
 import Layout from "./layout/Layout";
-import Index from "./pages/Index";
+import Index from "./pages";
 
 function App() {
   return (
