@@ -1,7 +1,8 @@
 
 import React from "react";
 import Layout from "./layout/Layout";
-import Index from "./pages";
+import Index from "./pages/Indexs";
+
 
 function App() {
   return (
